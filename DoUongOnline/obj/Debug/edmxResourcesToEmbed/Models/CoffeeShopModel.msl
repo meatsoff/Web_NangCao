@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WebsiteCoffeeShopModelStoreContainer" CdmEntityContainer="WebsiteCoffeeShopEntities1">
+    <EntitySetMapping Name="ChiTietDonHang">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.ChiTietDonHang">
+        <MappingFragment StoreEntitySet="ChiTietDonHang">
+          <ScalarProperty Name="IdChiTietDH" ColumnName="IdChiTietDH" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="GhiChuChiTiet" ColumnName="GhiChuChiTiet" />
+          <ScalarProperty Name="GiaBan" ColumnName="GiaBan" />
+          <ScalarProperty Name="DanhGiaSanPham" ColumnName="DanhGiaSanPham" />
+          <ScalarProperty Name="IdSP" ColumnName="IdSP" />
+          <ScalarProperty Name="IdDH" ColumnName="IdDH" />
+          <ScalarProperty Name="IdSizeSP" ColumnName="IdSizeSP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ChiTietPhieuNhap">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.ChiTietPhieuNhap">
+        <MappingFragment StoreEntitySet="ChiTietPhieuNhap">
+          <ScalarProperty Name="IdCTPN" ColumnName="IdCTPN" />
+          <ScalarProperty Name="SoLuongNhap" ColumnName="SoLuongNhap" />
+          <ScalarProperty Name="GiaNhap" ColumnName="GiaNhap" />
+          <ScalarProperty Name="IdNL" ColumnName="IdNL" />
+          <ScalarProperty Name="IdPN" ColumnName="IdPN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DonHang">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.DonHang">
+        <MappingFragment StoreEntitySet="DonHang">
+          <ScalarProperty Name="IdDH" ColumnName="IdDH" />
+          <ScalarProperty Name="NgayTaoDon" ColumnName="NgayTaoDon" />
+          <ScalarProperty Name="DiaChiGiaoHang" ColumnName="DiaChiGiaoHang" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+          <ScalarProperty Name="DiemKHSuDung" ColumnName="DiemKHSuDung" />
+          <ScalarProperty Name="IdKH" ColumnName="IdKH" />
+          <ScalarProperty Name="IdTinhTrangDH" ColumnName="IdTinhTrangDH" />
+          <ScalarProperty Name="NgayGioCapNhat" ColumnName="NgayGioCapNhat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HoaDon">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.HoaDon">
+        <MappingFragment StoreEntitySet="HoaDon">
+          <ScalarProperty Name="IdHD" ColumnName="IdHD" />
+          <ScalarProperty Name="IdNV" ColumnName="IdNV" />
+          <ScalarProperty Name="IdDH" ColumnName="IdDH" />
+          <ScalarProperty Name="NgayTaoHD" ColumnName="NgayTaoHD" />
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KhachHang">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.KhachHang">
+        <MappingFragment StoreEntitySet="KhachHang">
+          <ScalarProperty Name="IdKH" ColumnName="IdKH" />
+          <ScalarProperty Name="EmailKH" ColumnName="EmailKH" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="TenKhachHang" ColumnName="TenKhachHang" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="SDTKH" ColumnName="SDTKH" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="NgayTaoTK" ColumnName="NgayTaoTK" />
+          <ScalarProperty Name="DiemTichLuy" ColumnName="DiemTichLuy" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kho">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.Kho">
+        <MappingFragment StoreEntitySet="Kho">
+          <ScalarProperty Name="IdCTPN" ColumnName="IdCTPN" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KhuyenMai">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.KhuyenMai">
+        <MappingFragment StoreEntitySet="KhuyenMai">
+          <ScalarProperty Name="IdKM" ColumnName="IdKM" />
+          <ScalarProperty Name="PhanTramKM" ColumnName="PhanTramKM" />
+          <ScalarProperty Name="NgayHetHan" ColumnName="NgayHetHan" />
+          <ScalarProperty Name="GhiChuKM" ColumnName="GhiChuKM" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoaiNhanVien">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.LoaiNhanVien">
+        <MappingFragment StoreEntitySet="LoaiNhanVien">
+          <ScalarProperty Name="IdLoaiNV" ColumnName="IdLoaiNV" />
+          <ScalarProperty Name="TenLoaiNhanVien" ColumnName="TenLoaiNhanVien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoaiSanPham">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.LoaiSanPham">
+        <MappingFragment StoreEntitySet="LoaiSanPham">
+          <ScalarProperty Name="IdLoaiSP" ColumnName="IdLoaiSP" />
+          <ScalarProperty Name="TenLoaiSP" ColumnName="TenLoaiSP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NguyenLieu">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.NguyenLieu">
+        <MappingFragment StoreEntitySet="NguyenLieu">
+          <ScalarProperty Name="IdNL" ColumnName="IdNL" />
+          <ScalarProperty Name="TenNL" ColumnName="TenNL" />
+          <ScalarProperty Name="GiaNL" ColumnName="GiaNL" />
+          <ScalarProperty Name="DonVi" ColumnName="DonVi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhanVien">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.NhanVien">
+        <MappingFragment StoreEntitySet="NhanVien">
+          <ScalarProperty Name="IdNV" ColumnName="IdNV" />
+          <ScalarProperty Name="EmailNV" ColumnName="EmailNV" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="TenNhanVien" ColumnName="TenNhanVien" />
+          <ScalarProperty Name="SDTNV" ColumnName="SDTNV" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="NgayCapTK" ColumnName="NgayCapTK" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+          <ScalarProperty Name="IdLoaiNV" ColumnName="IdLoaiNV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhieuNhap">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.PhieuNhap">
+        <MappingFragment StoreEntitySet="PhieuNhap">
+          <ScalarProperty Name="IdPN" ColumnName="IdPN" />
+          <ScalarProperty Name="NgayNhap" ColumnName="NgayNhap" />
+          <ScalarProperty Name="TongTienNhap" ColumnName="TongTienNhap" />
+          <ScalarProperty Name="IdNV" ColumnName="IdNV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SanPham">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.SanPham">
+        <MappingFragment StoreEntitySet="SanPham">
+          <ScalarProperty Name="IdSP" ColumnName="IdSP" />
+          <ScalarProperty Name="TenSP" ColumnName="TenSP" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+          <ScalarProperty Name="MoTa" ColumnName="MoTa" />
+          <ScalarProperty Name="GiaBan" ColumnName="GiaBan" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+          <ScalarProperty Name="IdLoaiSP" ColumnName="IdLoaiSP" />
+          <ScalarProperty Name="IdKM" ColumnName="IdKM" />
+          <ScalarProperty Name="SoLuongCon" ColumnName="SoLuongCon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SizeSanPham">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.SizeSanPham">
+        <MappingFragment StoreEntitySet="SizeSanPham">
+          <ScalarProperty Name="IdSizeSP" ColumnName="IdSizeSP" />
+          <ScalarProperty Name="SizeSP" ColumnName="SizeSP" />
+          <ScalarProperty Name="GhiChuSize" ColumnName="GhiChuSize" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TinhTrangDonHang">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.TinhTrangDonHang">
+        <MappingFragment StoreEntitySet="TinhTrangDonHang">
+          <ScalarProperty Name="IdTinhTrangDH" ColumnName="IdTinhTrangDH" />
+          <ScalarProperty Name="TenTinhTrangDH" ColumnName="TenTinhTrangDH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CongThuc">
+      <EntityTypeMapping TypeName="WebsiteCoffeeShopModel.CongThuc">
+        <MappingFragment StoreEntitySet="CongThuc">
+          <ScalarProperty Name="DinhLuong" ColumnName="DinhLuong" />
+          <ScalarProperty Name="DonVi" ColumnName="DonVi" />
+          <ScalarProperty Name="IdSP" ColumnName="IdSP" />
+          <ScalarProperty Name="IdNL" ColumnName="IdNL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

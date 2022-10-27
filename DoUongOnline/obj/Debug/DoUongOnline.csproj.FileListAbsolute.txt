@@ -1,0 +1,564 @@
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\DoUongOnline.pdb
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\WebGrease.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CopyComplete
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.pdb
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll.config
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\DoUongOnline.pdb
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe.config
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csc.rsp
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe.config
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csi.rsp
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.AppContext.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Console.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Http.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe.config
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\vbc.rsp
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\EntityFramework.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Razor.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\WebGrease.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\EntityFramework.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Razor.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.pdb
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csprojAssemblyReference.cache
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CoreCompileInputs.cache
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CopyComplete
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.dll
+D:\Downloads\DoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.pdb
+D:\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll.config
+D:\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll
+D:\DoUongOnline\DoUongOnline\bin\DoUongOnline.pdb
+D:\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe
+D:\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe.config
+D:\DoUongOnline\DoUongOnline\bin\roslyn\csc.rsp
+D:\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe
+D:\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe.config
+D:\DoUongOnline\DoUongOnline\bin\roslyn\csi.rsp
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.AppContext.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Console.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Http.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Sockets.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.ValueTuple.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe
+D:\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe.config
+D:\DoUongOnline\DoUongOnline\bin\roslyn\vbc.rsp
+D:\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe
+D:\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.dll
+D:\DoUongOnline\DoUongOnline\bin\EntityFramework.dll
+D:\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.dll
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.dll
+D:\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.dll
+D:\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.dll
+D:\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.dll
+D:\DoUongOnline\DoUongOnline\bin\System.Web.Razor.dll
+D:\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.dll
+D:\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.dll
+D:\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.dll
+D:\DoUongOnline\DoUongOnline\bin\WebGrease.dll
+D:\DoUongOnline\DoUongOnline\bin\EntityFramework.xml
+D:\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.xml
+D:\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.xml
+D:\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.xml
+D:\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.xml
+D:\DoUongOnline\DoUongOnline\bin\System.Web.Razor.xml
+D:\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.xml
+D:\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.xml
+D:\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.xml
+D:\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.xml
+D:\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.pdb
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csprojAssemblyReference.cache
+D:\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CoreCompileInputs.cache
+D:\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CopyComplete
+D:\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.dll
+D:\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.pdb
+D:\DoUongOnline\DoUongOnline\bin\PagedList.dll
+D:\DoUongOnline\DoUongOnline\bin\PagedList.Mvc.dll
+D:\DoUongOnline\DoUongOnline\bin\PagedList.xml
+D:\DoUongOnline\DoUongOnline\bin\PagedList.Mvc.xml
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.dll
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Security.dll
+D:\DoUongOnline\DoUongOnline\bin\Owin.dll
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.xml
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\DoUongOnline.pdb
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Owin.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\PagedList.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\WebGrease.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\PagedList.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CopyComplete
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.dll
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.pdb
+C:\Users\Admin\Desktop\E-Commerce\Nhom11\Báo cáo\DoUongOnline\DoUongOnline\bin\Braintree.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll.config
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\DoUongOnline.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\DoUongOnline.pdb
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csc.exe.config
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csc.rsp
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csi.exe.config
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\csi.rsp
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.AppContext.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Console.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Http.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.ValueTuple.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\vbc.exe.config
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\vbc.rsp
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Braintree.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\EntityFramework.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Security.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Owin.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\PagedList.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\PagedList.Mvc.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Razor.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\WebGrease.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\EntityFramework.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\EntityFramework.SqlServer.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.Owin.Security.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\PagedList.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\PagedList.Mvc.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Helpers.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Mvc.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Optimization.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.Razor.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\System.Web.WebPages.Razor.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Newtonsoft.Json.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Antlr3.Runtime.pdb
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.AssemblyReference.cache
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.csproj.CoreCompileInputs.cache
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.dll
+D:\Nhom11-18DH110489-18DH110555-18DH110495-18DH110499-WebBanDoUongOnline\DoUongOnline\DoUongOnline\obj\Debug\DoUongOnline.pdb
+E:\Douong\DoUongOnline\bin\DoUongOnline.dll.config
+E:\Douong\DoUongOnline\bin\DoUongOnline.dll
+E:\Douong\DoUongOnline\bin\DoUongOnline.pdb
+E:\Douong\DoUongOnline\bin\roslyn\csc.exe
+E:\Douong\DoUongOnline\bin\roslyn\csc.exe.config
+E:\Douong\DoUongOnline\bin\roslyn\csc.rsp
+E:\Douong\DoUongOnline\bin\roslyn\csi.exe
+E:\Douong\DoUongOnline\bin\roslyn\csi.exe.config
+E:\Douong\DoUongOnline\bin\roslyn\csi.rsp
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Douong\DoUongOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.AppContext.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Console.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Globalization.Calendars.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.IO.Compression.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Net.Http.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Net.Sockets.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.ValueTuple.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Xml.XPath.dll
+E:\Douong\DoUongOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Douong\DoUongOnline\bin\roslyn\vbc.exe
+E:\Douong\DoUongOnline\bin\roslyn\vbc.exe.config
+E:\Douong\DoUongOnline\bin\roslyn\vbc.rsp
+E:\Douong\DoUongOnline\bin\roslyn\VBCSCompiler.exe
+E:\Douong\DoUongOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\Douong\DoUongOnline\bin\Antlr3.Runtime.dll
+E:\Douong\DoUongOnline\bin\Braintree.dll
+E:\Douong\DoUongOnline\bin\EntityFramework.dll
+E:\Douong\DoUongOnline\bin\EntityFramework.SqlServer.dll
+E:\Douong\DoUongOnline\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Douong\DoUongOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Douong\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Douong\DoUongOnline\bin\Microsoft.Owin.dll
+E:\Douong\DoUongOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Douong\DoUongOnline\bin\Microsoft.Owin.Security.dll
+E:\Douong\DoUongOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\Douong\DoUongOnline\bin\Newtonsoft.Json.dll
+E:\Douong\DoUongOnline\bin\Owin.dll
+E:\Douong\DoUongOnline\bin\PagedList.dll
+E:\Douong\DoUongOnline\bin\PagedList.Mvc.dll
+E:\Douong\DoUongOnline\bin\System.Web.Helpers.dll
+E:\Douong\DoUongOnline\bin\System.Web.Mvc.dll
+E:\Douong\DoUongOnline\bin\System.Web.Optimization.dll
+E:\Douong\DoUongOnline\bin\System.Web.Razor.dll
+E:\Douong\DoUongOnline\bin\System.Web.WebPages.Deployment.dll
+E:\Douong\DoUongOnline\bin\System.Web.WebPages.dll
+E:\Douong\DoUongOnline\bin\System.Web.WebPages.Razor.dll
+E:\Douong\DoUongOnline\bin\WebGrease.dll
+E:\Douong\DoUongOnline\bin\EntityFramework.xml
+E:\Douong\DoUongOnline\bin\EntityFramework.SqlServer.xml
+E:\Douong\DoUongOnline\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Douong\DoUongOnline\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Douong\DoUongOnline\bin\Microsoft.Owin.xml
+E:\Douong\DoUongOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Douong\DoUongOnline\bin\Microsoft.Owin.Security.xml
+E:\Douong\DoUongOnline\bin\PagedList.xml
+E:\Douong\DoUongOnline\bin\PagedList.Mvc.xml
+E:\Douong\DoUongOnline\bin\System.Web.Helpers.xml
+E:\Douong\DoUongOnline\bin\System.Web.Mvc.xml
+E:\Douong\DoUongOnline\bin\System.Web.Optimization.xml
+E:\Douong\DoUongOnline\bin\System.Web.Razor.xml
+E:\Douong\DoUongOnline\bin\System.Web.WebPages.xml
+E:\Douong\DoUongOnline\bin\System.Web.WebPages.Deployment.xml
+E:\Douong\DoUongOnline\bin\System.Web.WebPages.Razor.xml
+E:\Douong\DoUongOnline\bin\Newtonsoft.Json.xml
+E:\Douong\DoUongOnline\bin\Antlr3.Runtime.pdb
+E:\Douong\DoUongOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Douong\DoUongOnline\obj\Debug\DoUongOnline.csproj.AssemblyReference.cache
+E:\Douong\DoUongOnline\obj\Debug\DoUongOnline.csproj.CoreCompileInputs.cache
+E:\Douong\DoUongOnline\obj\Debug\DoUongOnline.csproj.CopyComplete
+E:\Douong\DoUongOnline\obj\Debug\DoUongOnline.dll
+E:\Douong\DoUongOnline\obj\Debug\DoUongOnline.pdb
+C:\Users\chinh\source\HK2_Nam3\Web_NangCao\FinalProject\Douong\DoUongOnline\obj\Debug\DoUongOnline.csprojAssemblyReference.cache
+C:\Users\chinh\source\HK2_Nam3\Web_NangCao\FinalProject\Douong\DoUongOnline\obj\Debug\DoUongOnline.csproj.CoreCompileInputs.cache
+C:\Users\chinh\source\HK2_Nam3\Web_NangCao\FinalProject\Douong\DoUongOnline\obj\Debug\DoUongOnline.dll
+C:\Users\chinh\source\HK2_Nam3\Web_NangCao\FinalProject\Douong\DoUongOnline\obj\Debug\DoUongOnline.pdb

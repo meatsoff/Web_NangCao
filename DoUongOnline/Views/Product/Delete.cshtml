@@ -1,0 +1,23 @@
+﻿@model DoUongOnline.Models.SanPham
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style=" display: flex; justify-content: center; align-items: center; width: 80%">
+    <div class="main" style="height: fit-content;">
+        <h2>Bạn có chắc chắn muốn xóa?</h2>
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <div style="display: flex; flex-direction: column;">
+                <span class="product__item__title" style="color: var(--primary-color); font-size: 18px;">@Model.IdSP</span>
+                <div style="display: flex; justify-content: space-evenly">
+                    @Html.ActionLink("Quay về", "List", new { }, new { @class = "btn-default" })
+                    <input type="submit" value="Xóa" class="btn btn-default active" />
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
